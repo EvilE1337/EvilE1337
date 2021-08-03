@@ -4,7 +4,8 @@
 
 Hi, i'm Dmitry, full stack web developer and a freelance software engineer from Russia 🌱. Self-taught.The first is experience, and then the salary 😄!
 
-Skills: 
+Skills:
+ 
 <img src='https://im0-tub-ru.yandex.net/i?id=23399c1cde7270a3b5eda375439b8aed&n=13' alt='c#' height='40'> <img src='https://www.pngkey.com/png/detail/550-5509803_js-logo-javascript-logo-circle-png.png' alt='js' height='40'> <img src='https://blog.submain.com/wp-content/uploads/2020/12/typescript_2500.png' alt='ts' height='40'> <img src='https://yt3.ggpht.com/a/AGF-l7-S_clYn8DuMtuEwZmUFWv_dg0-uixrzTBKYw=s900-c-k-c0xffffffff-no-rj-mo' alt='html' height='40'> <img src='https://cdn-images-1.medium.com/max/1024/1*cVLwaiFLrGDzWMJLGNXg8Q.png' alt='css' height='40'> <img src='https://cdn-front.kwork.ru/pics/t3/21/940039-1551301021.jpg' alt='mssql' height='40'> <img src='https://im0-tub-ru.yandex.net/i?id=6b67e02cbf8d10acda6edd4736e1eec1&n=13' alt='oracle' height='40'> <img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png' alt='git' height='40'> <img src='https://www.softfluent.fr/wp-content/uploads/2019/10/tfs.png' alt='tfs' height='40'>
 
 - 🔭 I’m currently working on DeloWeb 
